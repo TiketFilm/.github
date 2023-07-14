@@ -2,6 +2,15 @@
 
 TiketFilm.com is a website with Booking Film Ticket System topic. This website build using React js, Spring Boot, and MySQL tech stack.
 
+## Requirements
+<ul>
+  <li>Visual Studio Code (IDE)</li>
+  <li>IntellijIDEA (IDE)</li>
+  <li>Java version 17</li>
+  <li>Ngrok</li>
+  <li>Internet Connection</li>
+</ul>
+
 ## Installation
 
 Clone the repository in this [link](https://github.com/orgs/TiketFilm/repositories) .
