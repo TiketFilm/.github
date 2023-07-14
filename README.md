@@ -18,7 +18,7 @@ Clone Project React
 https://github.com/TiketFilm/TiketFilmClient.git
 ```
 
-</br></br>
+</br>
 
 ## Adjusment
 After cloning the project, to run the project, we need some adjusment for the Spring Boot public API URL. Because we use ngrok, so the public url change overtime.
@@ -54,6 +54,8 @@ After cloning and extract the project, you just need to run the application, and
 
 
 ## Preview
+
+![image](https://github.com/TiketFilm/.github/assets/87352987/e4eb7ae7-3a8a-4e66-a4e7-e27335751d07)
 
 
 ## Contributing
