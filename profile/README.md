@@ -1,4 +1,4 @@
-# TiketFilm.com
+# TiketFilm.com [DEPRECATED API COMPFEST]
 
 TiketFilm.com is a website with Booking Film Ticket System topic. This website build using React js, Spring Boot, and MySQL tech stack.
 
